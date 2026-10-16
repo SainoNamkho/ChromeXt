@@ -2,7 +2,7 @@ name: Android CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "chrome-154-menu-build" ]
   pull_request:
     branches: [ "master" ]
 
